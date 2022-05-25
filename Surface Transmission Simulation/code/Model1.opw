@@ -1,0 +1,83 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Equip. 1.NumberIn
+End_1.NumberOut
+Use Equip.1?.NumberOut False
+Use Equip.2?.NumberOut False
+Use Equip.3?.NumberOut False
+Is machine polluted 3?.NumberOut True
+Use Equip.4?.NumberOut False
+Use Equip.5?.NumberOut False
+Get Infected?.NumberOut False
+Is machine polluted 4?.NumberOut True
+Is machine polluted 3?.NumberOut False
+Is machine polluted 4?.NumberOut False
+Get Infected?.NumberOut True
+Not Vaccinated.NumberOut True
+Vaccinated 2.NumberOut False
+Vaccinated 3.NumberOut False
+Vaccinated 4.NumberOut False
+Vaccinated 5.NumberOut False
+Prevent Action 1.NumberOut
+Prevent Action 2.NumberOut
+Not Vaccinated 2.NumberOut False
+Not Vaccinated 3.NumberOut False
+Not Vaccinated 4.NumberOut False
+Not Vaccinated 5.NumberOut False
+Is visitor infected?.NumberOut False
+Is visitor infected 5?.NumberOut False
+Is machine polluted 2?.NumberOut True
+Not Vaccinated 2.NumberOut True
+Not Vaccinated 3.NumberOut True
+Not Vaccinated 4.NumberOut True
+Not Vaccinated 5.NumberOut True
+Is visitor infected 5?.NumberOut True
+Is visitor infected?.NumberOut True
+Is machine polluted 2?.NumberOut False
+End_2.NumberOut
+Prevent Action 5.NumberOut
+Equip. 5 Status
+Equip. 4 Status
+Equip. 3 Status
+Equip. 2 Status
+Equip. 1 Status
+Is equip. polluted?.NumberOut False
+Infected.NumberOut
+Not Vaccinated.NumberOut False
+Is visitor infected 4?.NumberOut False
+Prevent Action 3.NumberOut
+Is equip. polluted?.NumberOut True
+Is visitor infected 4?.NumberOut True
+Use Equip.1?.NumberOut True
+Use Equip.2?.NumberOut True
+Use Equip.3?.NumberOut True
+Use Equip.4?.NumberOut True
+Use Equip.5?.NumberOut True
+Healthy.NumberOut
+Visitor Arrivals.NumberOut
+End_5.NumberOut
+End_4.NumberOut
+End_3.NumberOut
+Is visitor infected 3?.NumberOut True
+Is visitor infected 3?.NumberOut False
+Vaccinated.NumberOut True
+Prevent Action 4.NumberOut
+Equip. 2 Workout.NumberIn
+Equip. 3 Workout.NumberIn
+Equip. 4 Workout.NumberIn
+Equip. 5 Workout.NumberIn
+Equip. 2 Workout.NumberOut
+Equip. 3 Workout.NumberOut
+Equip. 4 Workout.NumberOut
+Equip. 5 Workout.NumberOut
+Is machine polluted 5?.NumberOut False
+Is visitor infected 2?.NumberOut False
+Vaccinated 2.NumberOut True
+Vaccinated 3.NumberOut True
+Vaccinated 4.NumberOut True
+Vaccinated 5.NumberOut True
+Is machine polluted 5?.NumberOut True
+Vaccinated.NumberOut False
+Is visitor infected 2?.NumberOut True
+Equip. 1.NumberOut

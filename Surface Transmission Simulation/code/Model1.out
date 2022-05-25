@@ -1,0 +1,2604 @@
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 1 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .59104     .02815     .00000     2.7525        954    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        954    
+Visitors.WaitTime                           1.7708     .47999     .00000     12.544        954    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        954    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        954    
+Visitors.TotalTime                          2.3618     .49453     .00000     13.787        954    
+Equip.1.Queue.WaitingTime                   .68837     .19860     .00000     4.4360        460    
+Equip.5 Workout.Queue.WaitingTime           .71024     .20129     .00000     3.8217        467    
+Equip.4 Workout.Queue.WaitingTime           .70610     .23302     .00000     4.7118        455    
+Equip.3 Workout.Queue.WaitingTime           .73277     .20864     .00000     4.3556        491    
+Equip.2 Workout.Queue.WaitingTime           .73168     .21980     .00000     3.7641        492    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .20428     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .14739     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .14898     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .13545     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .07406     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                3.1294     .89625     .00000     16.000     .00000    
+Resource 1.NumberBusy                       .78313     .06199     .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .78313     .06199     .00000     1.0000     .00000    
+Equip.1.Queue.NumberInQueue                 .43979     .15304     .00000     5.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .46067     .18873     .00000     6.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .44622     .18525     .00000     6.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .49971     .18570     .00000     6.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .49998     .16935     .00000     7.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        17  Infinite
+Counter 2                                       567  Infinite
+Counter 1                                       370  Infinite
+Counter 5                                       884  Infinite
+Counter 4                                        70  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           954.00    
+Visitors.NumberOut                          954.00    
+Resource 1.NumberSeized                     2365.0    
+Resource 1.ScheduledUtilization             .78313    
+System.NumberOut                            1109.0    
+
+Beginning replication 2 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 2 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .57109     .03122     .00000     3.1836        952    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        952    
+Visitors.WaitTime                           1.7659     .45693     .00000     10.082        952    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        952    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        952    
+Visitors.TotalTime                          2.3370     .47436     .00000     10.982        952    
+Equip.1.Queue.WaitingTime                   .72427     .15791     .00000     3.9638        485    
+Equip.5 Workout.Queue.WaitingTime           .73127     .16671     .00000     3.6759        476    
+Equip.4 Workout.Queue.WaitingTime           .71919     .16710     .00000     3.3221        470    
+Equip.3 Workout.Queue.WaitingTime           .70158     .17707     .00000     3.6047        460    
+Equip.2 Workout.Queue.WaitingTime           .70548     .18790     .00000     3.9273        468    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .35909     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .30000     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .26661     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .17684     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .12465     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                3.1104     .64017     .00000     15.000     5.0000    
+Resource 1.NumberBusy                       .75760     .06136     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .75760     .06136     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .49043     .11182     .00000     4.0000     1.0000    
+Equip.5 Workout.Queue.NumberInQueue         .48539     .14935     .00000     6.0000     2.0000    
+Equip.4 Workout.Queue.NumberInQueue         .46947     (Corr)     .00000     5.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .44898     .12185     .00000     5.0000     1.0000    
+Equip.2 Workout.Queue.NumberInQueue         .45856     .11793     .00000     4.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        15  Infinite
+Counter 2                                       586  Infinite
+Counter 1                                       356  Infinite
+Counter 5                                       840  Infinite
+Counter 4                                       112  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           957.00    
+Visitors.NumberOut                          952.00    
+Resource 1.NumberSeized                     2359.0    
+Resource 1.ScheduledUtilization             .75760    
+System.NumberOut                            1107.0    
+
+Beginning replication 3 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 3 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .55400     .02908     .00000     2.5089        999    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        999    
+Visitors.WaitTime                           2.5389     (Corr)     .00000     29.082        999    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        999    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        999    
+Visitors.TotalTime                          3.0929     (Corr)     .00000     30.076        999    
+Equip.1.Queue.WaitingTime                   1.0126     (Corr)     .00000     8.9917        494    
+Equip.5 Workout.Queue.WaitingTime           1.0332     (Corr)     .00000     8.8217        483    
+Equip.4 Workout.Queue.WaitingTime           .99275     (Corr)     .00000     8.1929        493    
+Equip.3 Workout.Queue.WaitingTime           1.0808     (Corr)     .00000     9.9819        504    
+Equip.2 Workout.Queue.WaitingTime           .97101     (Corr)     .00000     9.2016        518    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .20480     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .12531     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .09780     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .09982     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .10814     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                4.2915     (Corr)     .00000     31.000     1.0000    
+Resource 1.NumberBusy                       .76872     .06910     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .76872     .06910     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .69479     (Corr)     .00000     11.000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .69312     (Corr)     .00000     9.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .67975     (Corr)     .00000     8.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .75658     (Corr)     .00000     10.000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .69859     (Corr)     .00000     9.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        15  Infinite
+Counter 2                                       586  Infinite
+Counter 1                                       399  Infinite
+Counter 5                                       920  Infinite
+Counter 4                                        79  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           1000.0    
+Visitors.NumberOut                          999.00    
+Resource 1.NumberSeized                     2492.0    
+Resource 1.ScheduledUtilization             .76872    
+System.NumberOut                            1154.0    
+
+Beginning replication 4 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 4 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .59844     .02744     .00000     2.6508        972    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        972    
+Visitors.WaitTime                           2.8262     (Corr)     .00000     16.693        972    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        972    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        972    
+Visitors.TotalTime                          3.4246     (Corr)     .00000     17.340        972    
+Equip.1.Queue.WaitingTime                   1.1342     (Corr)     .00000     5.6598        517    
+Equip.5 Workout.Queue.WaitingTime           1.1262     (Corr)     .00000     5.3544        492    
+Equip.4 Workout.Queue.WaitingTime           1.0605     (Corr)     .00000     5.2448        487    
+Equip.3 Workout.Queue.WaitingTime           1.1058     (Corr)     .00000     5.6207        473    
+Equip.2 Workout.Queue.WaitingTime           1.1487     (Corr)     .00000     4.4780        496    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .24952     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .16133     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .18948     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .11665     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .14050     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                4.6283     (Corr)     .00000     21.000     2.0000    
+Resource 1.NumberBusy                       .80915     (Corr)     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .80915     (Corr)     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .81442     (Corr)     .00000     8.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .76963     (Corr)     .00000     9.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .71733     (Corr)     .00000     10.000     1.0000    
+Equip.3 Workout.Queue.NumberInQueue         .72650     (Corr)     .00000     9.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .79137     (Corr)     .00000     8.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        15  Infinite
+Counter 2                                       589  Infinite
+Counter 1                                       370  Infinite
+Counter 5                                       897  Infinite
+Counter 4                                        75  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           974.00    
+Visitors.NumberOut                          972.00    
+Resource 1.NumberSeized                     2465.0    
+Resource 1.ScheduledUtilization             .80915    
+System.NumberOut                            1127.0    
+
+Beginning replication 5 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 5 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .59068     (Corr)     .00000     3.1205        969    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        969    
+Visitors.WaitTime                           2.0166     (Corr)     .00000     18.395        969    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        969    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        969    
+Visitors.TotalTime                          2.6073     (Corr)     .00000     19.944        969    
+Equip.1.Queue.WaitingTime                   .84299     (Corr)     .00000     4.9789        481    
+Equip.5 Workout.Queue.WaitingTime           .81213     (Corr)     .00000     4.7331        472    
+Equip.4 Workout.Queue.WaitingTime           .80170     (Corr)     .00000     5.0451        493    
+Equip.3 Workout.Queue.WaitingTime           .81133     (Corr)     .00000     5.0256        489    
+Equip.2 Workout.Queue.WaitingTime           .83274     (Corr)     .00000     4.9034        507    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .16460     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .14969     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .15418     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .07210     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .05051     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                3.5970     1.1681     .00000     20.000     12.000    
+Resource 1.NumberBusy                       .79833     .05496     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .79833     .05496     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .56675     .23267     .00000     6.0000     2.0000    
+Equip.5 Workout.Queue.NumberInQueue         .53512     .21452     .00000     5.0000     2.0000    
+Equip.4 Workout.Queue.NumberInQueue         .55098     .19866     .00000     7.0000     2.0000    
+Equip.3 Workout.Queue.NumberInQueue         .55521     .21665     .00000     6.0000     3.0000    
+Equip.2 Workout.Queue.NumberInQueue         .59069     .28478     .00000     7.0000     2.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        10  Infinite
+Counter 2                                       603  Infinite
+Counter 1                                       368  Infinite
+Counter 5                                       909  Infinite
+Counter 4                                        60  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           981.00    
+Visitors.NumberOut                          969.00    
+Resource 1.NumberSeized                     2442.0    
+Resource 1.ScheduledUtilization             .79833    
+System.NumberOut                            1124.0    
+
+Beginning replication 6 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 6 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .58952     .03108     .00000     2.8439       1001    
+Visitors.NVATime                            .00000     .00000     .00000     .00000       1001    
+Visitors.WaitTime                           2.7474     (Corr)     .00000     17.781       1001    
+Visitors.TranTime                           .00000     .00000     .00000     .00000       1001    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000       1001    
+Visitors.TotalTime                          3.3369     (Corr)     .00000     19.009       1001    
+Equip.1.Queue.WaitingTime                   1.1225     .36784     .00000     4.9709        509    
+Equip.5 Workout.Queue.WaitingTime           1.1022     (Corr)     .00000     5.1381        515    
+Equip.4 Workout.Queue.WaitingTime           1.1119     (Corr)     .00000     4.9507        527    
+Equip.3 Workout.Queue.WaitingTime           1.0761     (Corr)     .00000     5.1963        478    
+Equip.2 Workout.Queue.WaitingTime           1.0380     .31988     .00000     4.9134        492    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .16175     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .13975     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .07481     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .05919     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .13980     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                4.6393     1.4388     .00000     17.000     .00000    
+Resource 1.NumberBusy                       .81960     .06072     .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .81960     .06072     .00000     1.0000     .00000    
+Equip.1.Queue.NumberInQueue                 .79360     .28729     .00000     7.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .78843     .28619     .00000     6.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .81391     .33715     .00000     8.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .71442     .27848     .00000     6.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .70934     .25248     .00000     7.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        17  Infinite
+Counter 2                                       616  Infinite
+Counter 1                                       368  Infinite
+Counter 5                                       938  Infinite
+Counter 4                                        63  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           1001.0    
+Visitors.NumberOut                          1001.0    
+Resource 1.NumberSeized                     2521.0    
+Resource 1.ScheduledUtilization             .81960    
+System.NumberOut                            1156.0    
+
+Beginning replication 7 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 7 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .57612     .02622     .00000     2.7480        988    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        988    
+Visitors.WaitTime                           2.4016     (Corr)     .00000     22.651        988    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        988    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        988    
+Visitors.TotalTime                          2.9777     (Corr)     .00000     24.954        988    
+Equip.1.Queue.WaitingTime                   .95396     (Corr)     .00000     6.3689        488    
+Equip.5 Workout.Queue.WaitingTime           .98016     (Corr)     .00000     6.0445        480    
+Equip.4 Workout.Queue.WaitingTime           1.0046     (Corr)     .00000     6.1093        529    
+Equip.3 Workout.Queue.WaitingTime           .93410     (Corr)     .00000     6.3336        488    
+Equip.2 Workout.Queue.WaitingTime           .93645     (Corr)     .00000     6.2527        481    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .28873     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .20527     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .13277     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .11907     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .07724     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                4.0900     (Corr)     .00000     23.000     3.0000    
+Resource 1.NumberBusy                       .79216     .05798     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .79216     .05798     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .64657     (Corr)     .00000     11.000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .65344     (Corr)     .00000     8.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .73811     (Corr)     .00000     10.000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .63421     .32049     .00000     9.0000     2.0000    
+Equip.2 Workout.Queue.NumberInQueue         .62560     (Corr)     .00000     8.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        16  Infinite
+Counter 2                                       576  Infinite
+Counter 1                                       399  Infinite
+Counter 5                                       890  Infinite
+Counter 4                                        98  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           991.00    
+Visitors.NumberOut                          988.00    
+Resource 1.NumberSeized                     2466.0    
+Resource 1.ScheduledUtilization             .79216    
+System.NumberOut                            1143.0    
+
+Beginning replication 8 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 8 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .56799     .03324     .00000     2.6010        932    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        932    
+Visitors.WaitTime                           1.3491     .40909     .00000     10.453        932    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        932    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        932    
+Visitors.TotalTime                          1.9171     .43500     .00000     11.283        932    
+Equip.1.Queue.WaitingTime                   .53363     .12254     .00000     2.8985        424    
+Equip.5 Workout.Queue.WaitingTime           .56534     .16566     .00000     4.1599        441    
+Equip.4 Workout.Queue.WaitingTime           .58343     .18601     .00000     3.8198        439    
+Equip.3 Workout.Queue.WaitingTime           .56960     .15193     .00000     4.0987        477    
+Equip.2 Workout.Queue.WaitingTime           .53579     .15884     .00000     4.0891        474    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .24713     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .16793     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .15054     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .13149     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .08306     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                2.4815     .66257     .00000     15.000     .00000    
+Resource 1.NumberBusy                       .73524     .07314     .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .73524     .07314     .00000     1.0000     .00000    
+Equip.1.Queue.NumberInQueue                 .31425     .11173     .00000     4.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .34627     .12363     .00000     5.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .35573     .12895     .00000     6.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .37736     .14707     .00000     4.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .35273     .12433     .00000     4.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        14  Infinite
+Counter 2                                       579  Infinite
+Counter 1                                       339  Infinite
+Counter 5                                       871  Infinite
+Counter 4                                        61  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           932.00    
+Visitors.NumberOut                          932.00    
+Resource 1.NumberSeized                     2255.0    
+Resource 1.ScheduledUtilization             .73524    
+System.NumberOut                            1087.0    
+
+Beginning replication 9 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 9 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .59083     .02391     .00000     3.1262        995    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        995    
+Visitors.WaitTime                           2.7937     .84893     .00000     20.174        995    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        995    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        995    
+Visitors.TotalTime                          3.3845     .85785     .00000     20.730        995    
+Equip.1.Queue.WaitingTime                   1.1189     (Corr)     .00000     5.9138        499    
+Equip.5 Workout.Queue.WaitingTime           1.1334     (Corr)     .00000     6.2168        516    
+Equip.4 Workout.Queue.WaitingTime           1.0315     .34156     .00000     5.9276        499    
+Equip.3 Workout.Queue.WaitingTime           1.1411     .36693     .00000     6.2874        496    
+Equip.2 Workout.Queue.WaitingTime           1.0980     .34229     .00000     6.4636        508    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .20959     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .18956     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .14730     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .10002     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .12155     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                4.6985     1.4822     .00000     23.000     9.0000    
+Resource 1.NumberBusy                       .81964     (Insuf)    .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .81964     (Insuf)    .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .78263     .29423     .00000     6.0000     5.0000    
+Equip.5 Workout.Queue.NumberInQueue         .81525     .31387     .00000     8.0000     1.0000    
+Equip.4 Workout.Queue.NumberInQueue         .71784     .25135     .00000     8.0000     1.0000    
+Equip.3 Workout.Queue.NumberInQueue         .78612     .32499     .00000     8.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .77705     .29787     .00000     6.0000     1.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        13  Infinite
+Counter 2                                       615  Infinite
+Counter 1                                       376  Infinite
+Counter 5                                       918  Infinite
+Counter 4                                        77  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           1004.0    
+Visitors.NumberOut                          995.00    
+Resource 1.NumberSeized                     2518.0    
+Resource 1.ScheduledUtilization             .81964    
+System.NumberOut                            1150.0    
+
+Beginning replication 10 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 10 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .59505     .02843     .00000     3.3616        939    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        939    
+Visitors.WaitTime                           2.2474     (Corr)     .00000     21.392        939    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        939    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        939    
+Visitors.TotalTime                          2.8424     (Corr)     .00000     24.624        939    
+Equip.1.Queue.WaitingTime                   1.0174     (Corr)     .00000     8.0042        478    
+Equip.5 Workout.Queue.WaitingTime           .86042     (Corr)     .00000     8.5964        478    
+Equip.4 Workout.Queue.WaitingTime           .83186     (Corr)     .00000     8.5195        459    
+Equip.3 Workout.Queue.WaitingTime           .89518     (Corr)     .00000     8.4116        465    
+Equip.2 Workout.Queue.WaitingTime           .87120     (Corr)     .00000     8.4702        482    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .14694     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .10089     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .09648     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .07760     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .06739     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                3.7294     1.4918     .00000     24.000     8.0000    
+Resource 1.NumberBusy                       .77893     .05564     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .77893     .05564     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .67752     .37730     .00000     9.0000     2.0000    
+Equip.5 Workout.Queue.NumberInQueue         .57602     .31194     .00000     7.0000     2.0000    
+Equip.4 Workout.Queue.NumberInQueue         .53171     .23289     .00000     5.0000     1.0000    
+Equip.3 Workout.Queue.NumberInQueue         .58208     (Corr)     .00000     6.0000     2.0000    
+Equip.2 Workout.Queue.NumberInQueue         .58322     .26739     .00000     7.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                         9  Infinite
+Counter 2                                       587  Infinite
+Counter 1                                       351  Infinite
+Counter 5                                       889  Infinite
+Counter 4                                        50  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           947.00    
+Visitors.NumberOut                          939.00    
+Resource 1.NumberSeized                     2362.0    
+Resource 1.ScheduledUtilization             .77893    
+System.NumberOut                            1094.0    
+
+Beginning replication 11 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 11 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .57655     .03076     .00000     3.0924        924    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        924    
+Visitors.WaitTime                           2.0611     (Corr)     .00000     17.556        924    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        924    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        924    
+Visitors.TotalTime                          2.6376     (Corr)     .00000     18.637        924    
+Equip.1.Queue.WaitingTime                   .80009     (Corr)     .00000     5.0242        446    
+Equip.5 Workout.Queue.WaitingTime           .87926     (Corr)     .00000     5.1188        455    
+Equip.4 Workout.Queue.WaitingTime           .83572     (Corr)     .00000     5.1097        444    
+Equip.3 Workout.Queue.WaitingTime           .83456     (Corr)     .00000     5.2318        455    
+Equip.2 Workout.Queue.WaitingTime           .89755     (Corr)     .00000     5.2507        455    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .10204     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .08206     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .09603     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .07417     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .10861     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                3.4132     1.6193     .00000     22.000     6.0000    
+Resource 1.NumberBusy                       .74445     .05821     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .74445     .05821     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .49561     .27979     .00000     7.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .55985     .34372     .00000     8.0000     2.0000    
+Equip.4 Workout.Queue.NumberInQueue         .51536     .28960     .00000     7.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .52802     .31709     .00000     7.0000     1.0000    
+Equip.2 Workout.Queue.NumberInQueue         .56991     .37091     .00000     8.0000     2.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        14  Infinite
+Counter 2                                       545  Infinite
+Counter 1                                       371  Infinite
+Counter 5                                       881  Infinite
+Counter 4                                        43  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           930.00    
+Visitors.NumberOut                          924.00    
+Resource 1.NumberSeized                     2255.0    
+Resource 1.ScheduledUtilization             .74445    
+System.NumberOut                            1079.0    
+
+Beginning replication 12 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 12 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .57896     .02514     .00000     2.7789        967    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        967    
+Visitors.WaitTime                           1.9772     (Corr)     .00000     14.527        967    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        967    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        967    
+Visitors.TotalTime                          2.5562     (Corr)     .00000     14.901        967    
+Equip.1.Queue.WaitingTime                   .77451     .26240     .00000     4.5674        481    
+Equip.5 Workout.Queue.WaitingTime           .83194     (Corr)     .00000     4.2751        480    
+Equip.4 Workout.Queue.WaitingTime           .74516     .27209     .00000     4.5009        481    
+Equip.3 Workout.Queue.WaitingTime           .77177     (Corr)     .00000     4.2940        486    
+Equip.2 Workout.Queue.WaitingTime           .82328     (Corr)     .00000     4.4679        506    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .49955     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .40594     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .30204     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .24586     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .16297     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                3.4571     1.1571     .00000     19.000     6.0000    
+Resource 1.NumberBusy                       .78113     .05883     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .78113     .05883     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .51741     (Corr)     .00000     6.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .55511     .27457     .00000     6.0000     1.0000    
+Equip.4 Workout.Queue.NumberInQueue         .50083     (Corr)     .00000     5.0000     2.0000    
+Equip.3 Workout.Queue.NumberInQueue         .52404     .22452     .00000     6.0000     2.0000    
+Equip.2 Workout.Queue.NumberInQueue         .57858     (Corr)     .00000     7.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        21  Infinite
+Counter 2                                       575  Infinite
+Counter 1                                       377  Infinite
+Counter 5                                       819  Infinite
+Counter 4                                       148  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           973.00    
+Visitors.NumberOut                          967.00    
+Resource 1.NumberSeized                     2434.0    
+Resource 1.ScheduledUtilization             .78113    
+System.NumberOut                            1122.0    
+
+Beginning replication 13 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 13 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .58474     .02993     .00000     3.1958        912    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        912    
+Visitors.WaitTime                           1.4316     .48950     .00000     14.240        912    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        912    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        912    
+Visitors.TotalTime                          2.0164     .50131     .00000     14.843        912    
+Equip.1.Queue.WaitingTime                   .56363     (Corr)     .00000     4.5753        439    
+Equip.5 Workout.Queue.WaitingTime           .59444     .21380     .00000     4.9498        459    
+Equip.4 Workout.Queue.WaitingTime           .57241     .17691     .00000     3.1939        470    
+Equip.3 Workout.Queue.WaitingTime           .56865     .21837     .00000     4.9135        450    
+Equip.2 Workout.Queue.WaitingTime           .56768     .20692     .00000     4.8906        460    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .09386     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .10369     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .09426     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .06141     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .08190     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                2.5591     (Corr)     .00000     20.000     3.0000    
+Resource 1.NumberBusy                       .74172     .05896     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .74172     .05896     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .34366     .14722     .00000     5.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .37895     (Corr)     .00000     6.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .37538     (Corr)     .00000     8.0000     1.0000    
+Equip.3 Workout.Queue.NumberInQueue         .35541     (Corr)     .00000     6.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .36403     .14599     .00000     6.0000     1.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        11  Infinite
+Counter 2                                       563  Infinite
+Counter 1                                       341  Infinite
+Counter 5                                       867  Infinite
+Counter 4                                        45  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           915.00    
+Visitors.NumberOut                          912.00    
+Resource 1.NumberSeized                     2278.0    
+Resource 1.ScheduledUtilization             .74172    
+System.NumberOut                            1067.0    
+
+Beginning replication 14 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 14 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .60758     (Corr)     .00000     2.4489        937    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        937    
+Visitors.WaitTime                           1.9483     (Corr)     .00000     16.134        937    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        937    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        937    
+Visitors.TotalTime                          2.5559     (Corr)     .00000     17.291        937    
+Equip.1.Queue.WaitingTime                   .79567     (Corr)     .00000     5.4644        470    
+Equip.5 Workout.Queue.WaitingTime           .80992     (Corr)     .00000     5.1431        461    
+Equip.4 Workout.Queue.WaitingTime           .81761     (Corr)     .00000     4.6518        464    
+Equip.3 Workout.Queue.WaitingTime           .72993     (Corr)     .00000     5.4966        486    
+Equip.2 Workout.Queue.WaitingTime           .75322     .28339     .00000     5.4672        457    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .22797     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .21131     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .18129     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .14688     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .14526     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                3.3266     1.0948     .00000     17.000     1.0000    
+Resource 1.NumberBusy                       .79100     .06558     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .79100     .06558     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .51939     (Corr)     .00000     6.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .51857     .21741     .00000     6.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .52691     .23222     .00000     7.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .49270     .19240     .00000     6.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .47808     .19857     .00000     5.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        13  Infinite
+Counter 2                                       560  Infinite
+Counter 1                                       365  Infinite
+Counter 5                                       844  Infinite
+Counter 4                                        93  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           938.00    
+Visitors.NumberOut                          937.00    
+Resource 1.NumberSeized                     2338.0    
+Resource 1.ScheduledUtilization             .79100    
+System.NumberOut                            1092.0    
+
+Beginning replication 15 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 15 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .56450     .02908     .00000     2.2778        915    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        915    
+Visitors.WaitTime                           1.3653     .41710     .00000     8.7961        915    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        915    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        915    
+Visitors.TotalTime                          1.9298     .43737     .00000     9.8965        915    
+Equip.1.Queue.WaitingTime                   .57213     .17100     .00000     3.5690        467    
+Equip.5 Workout.Queue.WaitingTime           .54717     .18057     .00000     3.1093        442    
+Equip.4 Workout.Queue.WaitingTime           .51385     .20420     .00000     3.3826        462    
+Equip.3 Workout.Queue.WaitingTime           .56661     .19560     .00000     3.6462        474    
+Equip.2 Workout.Queue.WaitingTime           .51953     .15503     .00000     3.3224        451    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .11098     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .12443     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .12409     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .09179     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .03406     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                2.4525     .66085     .00000     15.000     .00000    
+Resource 1.NumberBusy                       .71739     .06605     .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .71739     .06605     .00000     1.0000     .00000    
+Equip.1.Queue.NumberInQueue                 .37109     .13068     .00000     6.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .33590     .12625     .00000     7.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .32972     .14327     .00000     5.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .37302     .13724     .00000     6.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .32543     .10997     .00000     4.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                         9  Infinite
+Counter 2                                       545  Infinite
+Counter 1                                       361  Infinite
+Counter 5                                       868  Infinite
+Counter 4                                        47  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           915.00    
+Visitors.NumberOut                          915.00    
+Resource 1.NumberSeized                     2296.0    
+Resource 1.ScheduledUtilization             .71739    
+System.NumberOut                            1070.0    
+
+Beginning replication 16 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 16 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .57763     .02855     .00000     3.2583        952    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        952    
+Visitors.WaitTime                           1.5885     .52818     .00000     12.574        952    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        952    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        952    
+Visitors.TotalTime                          2.1661     .53070     .00000     15.833        952    
+Equip.1.Queue.WaitingTime                   .68145     .22238     .00000     5.5572        483    
+Equip.5 Workout.Queue.WaitingTime           .65892     .25924     .00000     5.8855        454    
+Equip.4 Workout.Queue.WaitingTime           .62428     .20388     .00000     4.8968        473    
+Equip.3 Workout.Queue.WaitingTime           .57686     .17895     .00000     5.4793        486    
+Equip.2 Workout.Queue.WaitingTime           .64748     .22317     .00000     5.9011        483    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .20398     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .21322     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .11682     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .11874     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .10057     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                2.8728     .89329     .00000     18.000     3.0000    
+Resource 1.NumberBusy                       .76603     .05963     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .76603     .05963     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .45714     .19362     .00000     7.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .41549     .19582     .00000     7.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .41041     .15613     .00000     5.0000     1.0000    
+Equip.3 Workout.Queue.NumberInQueue         .38939     .13926     .00000     5.0000     1.0000    
+Equip.2 Workout.Queue.NumberInQueue         .43435     .18133     .00000     6.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        13  Infinite
+Counter 2                                       572  Infinite
+Counter 1                                       370  Infinite
+Counter 5                                       878  Infinite
+Counter 4                                        74  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           955.00    
+Visitors.NumberOut                          952.00    
+Resource 1.NumberSeized                     2379.0    
+Resource 1.ScheduledUtilization             .76603    
+System.NumberOut                            1107.0    
+
+Beginning replication 17 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 17 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .57885     .02958     .00000     2.9140        956    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        956    
+Visitors.WaitTime                           1.6560     .50739     .00000     12.808        956    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        956    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        956    
+Visitors.TotalTime                          2.2349     .52227     .00000     14.285        956    
+Equip.1.Queue.WaitingTime                   .69119     .17088     .00000     3.8984        462    
+Equip.5 Workout.Queue.WaitingTime           .62135     .16577     .00000     4.1691        470    
+Equip.4 Workout.Queue.WaitingTime           .69807     .19305     .00000     4.9786        485    
+Equip.3 Workout.Queue.WaitingTime           .67127     .18536     .00000     4.0442        475    
+Equip.2 Workout.Queue.WaitingTime           .65641     (Corr)     .00000     4.5107        479    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .27239     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .27230     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .22666     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .21127     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .16473     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                2.9674     .79583     .00000     18.000     .00000    
+Resource 1.NumberBusy                       .76858     (Corr)     .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .76858     (Corr)     .00000     1.0000     .00000    
+Equip.1.Queue.NumberInQueue                 .44351     .14166     .00000     5.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .40560     .13850     .00000     6.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .47023     .17666     .00000     6.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .44285     .15096     .00000     4.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .43669     .16578     .00000     5.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        16  Infinite
+Counter 2                                       566  Infinite
+Counter 1                                       374  Infinite
+Counter 5                                       828  Infinite
+Counter 4                                       128  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           956.00    
+Visitors.NumberOut                          956.00    
+Resource 1.NumberSeized                     2371.0    
+Resource 1.ScheduledUtilization             .76858    
+System.NumberOut                            1111.0    
+
+Beginning replication 18 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 18 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .59207     .02497     .00000     2.7588        967    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        967    
+Visitors.WaitTime                           2.5566     (Corr)     .00000     23.774        967    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        967    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        967    
+Visitors.TotalTime                          3.1487     (Corr)     .00000     24.235        967    
+Equip.1.Queue.WaitingTime                   1.0675     (Corr)     .00000     6.9745        497    
+Equip.5 Workout.Queue.WaitingTime           1.0100     (Corr)     .00000     6.7051        495    
+Equip.4 Workout.Queue.WaitingTime           .95366     (Corr)     .00000     7.4171        488    
+Equip.3 Workout.Queue.WaitingTime           1.0346     (Corr)     .00000     7.4345        487    
+Equip.2 Workout.Queue.WaitingTime           1.0139     (Corr)     .00000     7.0796        466    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .23775     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .26277     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .22261     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .17213     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .14102     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                4.2298     1.8432     .00000     27.000     3.0000    
+Resource 1.NumberBusy                       .79563     .05690     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .79563     .05690     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .73715     .39429     .00000     8.0000     1.0000    
+Equip.5 Workout.Queue.NumberInQueue         .69440     .39759     .00000     9.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .64637     .32417     .00000     9.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .69982     .38109     .00000     10.000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .65649     .33852     .00000     7.0000     1.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        14  Infinite
+Counter 2                                       599  Infinite
+Counter 1                                       357  Infinite
+Counter 5                                       876  Infinite
+Counter 4                                        91  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           970.00    
+Visitors.NumberOut                          967.00    
+Resource 1.NumberSeized                     2433.0    
+Resource 1.ScheduledUtilization             .79563    
+System.NumberOut                            1122.0    
+
+Beginning replication 19 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 19 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .58387     .02754     .00000     3.3572        961    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        961    
+Visitors.WaitTime                           1.5845     .44203     .00000     12.713        961    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        961    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        961    
+Visitors.TotalTime                          2.1684     .45851     .00000     13.280        961    
+Equip.1.Queue.WaitingTime                   .63215     .18661     .00000     3.4010        493    
+Equip.5 Workout.Queue.WaitingTime           .63997     .17533     .00000     3.3171        468    
+Equip.4 Workout.Queue.WaitingTime           .62568     .17371     .00000     3.5400        482    
+Equip.3 Workout.Queue.WaitingTime           .66337     .18226     .00000     3.4804        476    
+Equip.2 Workout.Queue.WaitingTime           .62212     .17550     .00000     3.4155        473    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .28396     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .20242     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .12748     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .12066     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .12655     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                2.8943     .66728     .00000     13.000     1.0000    
+Resource 1.NumberBusy                       .77945     .05905     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .77945     .05905     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .43285     .12679     .00000     6.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .41598     .13488     .00000     4.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .41885     .13090     .00000     5.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .43856     .13838     .00000     5.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .40870     .12667     .00000     4.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        13  Infinite
+Counter 2                                       587  Infinite
+Counter 1                                       362  Infinite
+Counter 5                                       868  Infinite
+Counter 4                                        93  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           962.00    
+Visitors.NumberOut                          961.00    
+Resource 1.NumberSeized                     2392.0    
+Resource 1.ScheduledUtilization             .77945    
+System.NumberOut                            1116.0    
+
+Beginning replication 20 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 20 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .58150     .02555     .00000     2.5843        959    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        959    
+Visitors.WaitTime                           2.7000     (Corr)     .00000     24.120        959    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        959    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        959    
+Visitors.TotalTime                          3.2815     (Corr)     .00000     24.929        959    
+Equip.1.Queue.WaitingTime                   1.0410     (Corr)     .00000     6.8861        484    
+Equip.5 Workout.Queue.WaitingTime           1.0783     (Corr)     .00000     7.1730        444    
+Equip.4 Workout.Queue.WaitingTime           1.0868     (Corr)     .00000     7.2999        470    
+Equip.3 Workout.Queue.WaitingTime           1.1367     (Corr)     .00000     6.4940        486    
+Equip.2 Workout.Queue.WaitingTime           1.0933     (Corr)     .00000     7.3074        497    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .30088     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .15694     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .14101     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .15624     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .07663     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                4.3754     (Corr)     .00000     30.000     3.0000    
+Resource 1.NumberBusy                       .77665     .05959     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .77665     .05959     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .70106     .40121     .00000     8.0000     1.0000    
+Equip.5 Workout.Queue.NumberInQueue         .66497     (Corr)     .00000     10.000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .70948     .45734     .00000     10.000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .76858     .50731     .00000     10.000     1.0000    
+Equip.2 Workout.Queue.NumberInQueue         .75474     .47506     .00000     8.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        17  Infinite
+Counter 2                                       586  Infinite
+Counter 1                                       359  Infinite
+Counter 5                                       875  Infinite
+Counter 4                                        84  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           962.00    
+Visitors.NumberOut                          959.00    
+Resource 1.NumberSeized                     2381.0    
+Resource 1.ScheduledUtilization             .77665    
+System.NumberOut                            1114.0    
+
+Beginning replication 21 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 21 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .56666     .02944     .00000     3.1091       1025    
+Visitors.NVATime                            .00000     .00000     .00000     .00000       1025    
+Visitors.WaitTime                           2.0153     (Corr)     .00000     20.288       1025    
+Visitors.TranTime                           .00000     .00000     .00000     .00000       1025    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000       1025    
+Visitors.TotalTime                          2.5819     (Corr)     .00000     20.956       1025    
+Equip.1.Queue.WaitingTime                   .83705     (Corr)     .00000     6.6847        504    
+Equip.5 Workout.Queue.WaitingTime           .85817     (Corr)     .00000     6.6693        492    
+Equip.4 Workout.Queue.WaitingTime           .84502     (Corr)     .00000     6.3589        526    
+Equip.3 Workout.Queue.WaitingTime           .75413     (Corr)     .00000     6.0372        477    
+Equip.2 Workout.Queue.WaitingTime           .80114     (Corr)     .00000     6.8129        521    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .29757     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .21976     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .18178     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .12327     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .11827     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                3.6757     (Corr)     .00000     22.000     .00000    
+Resource 1.NumberBusy                       .80670     .05070     .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .80670     .05070     .00000     1.0000     .00000    
+Equip.1.Queue.NumberInQueue                 .58594     (Corr)     .00000     7.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .58641     (Corr)     .00000     7.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .61733     (Corr)     .00000     7.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .49961     (Corr)     .00000     7.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .57972     (Corr)     .00000     6.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        14  Infinite
+Counter 2                                       601  Infinite
+Counter 1                                       410  Infinite
+Counter 5                                       912  Infinite
+Counter 4                                       113  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           1025.0    
+Visitors.NumberOut                          1025.0    
+Resource 1.NumberSeized                     2520.0    
+Resource 1.ScheduledUtilization             .80670    
+System.NumberOut                            1180.0    
+
+Beginning replication 22 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 22 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .60636     .03467     .00000     2.6207       1001    
+Visitors.NVATime                            .00000     .00000     .00000     .00000       1001    
+Visitors.WaitTime                           6.4261     (Corr)     .00000     39.594       1001    
+Visitors.TranTime                           .00000     .00000     .00000     .00000       1001    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000       1001    
+Visitors.TotalTime                          7.0324     (Corr)     .00000     40.286       1001    
+Equip.1.Queue.WaitingTime                   2.5319     (Corr)     .00000     9.7405        502    
+Equip.5 Workout.Queue.WaitingTime           2.4483     (Corr)     .00000     10.120        524    
+Equip.4 Workout.Queue.WaitingTime           2.5598     (Corr)     .00000     10.330        525    
+Equip.3 Workout.Queue.WaitingTime           2.5319     (Corr)     .00000     9.9399        500    
+Equip.2 Workout.Queue.WaitingTime           2.5603     (Corr)     .00000     10.463        496    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .17801     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .22959     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .19682     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .09971     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .10970     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                9.7798     (Corr)     .00000     42.000     3.0000    
+Resource 1.NumberBusy                       .84362     (Insuf)    .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .84362     (Insuf)    .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 1.7653     (Corr)     .00000     12.000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         1.7819     (Corr)     .00000     13.000     1.0000    
+Equip.4 Workout.Queue.NumberInQueue         1.8667     (Corr)     .00000     12.000     1.0000    
+Equip.3 Workout.Queue.NumberInQueue         1.7583     (Corr)     .00000     11.000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         1.7637     (Corr)     .00000     14.000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        13  Infinite
+Counter 2                                       639  Infinite
+Counter 1                                       352  Infinite
+Counter 5                                       910  Infinite
+Counter 4                                        91  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           1004.0    
+Visitors.NumberOut                          1001.0    
+Resource 1.NumberSeized                     2547.0    
+Resource 1.ScheduledUtilization             .84362    
+System.NumberOut                            1156.0    
+
+Beginning replication 23 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 23 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .61043     .02439     .00000     2.5559        905    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        905    
+Visitors.WaitTime                           1.4695     .34385     .00000     9.8211        905    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        905    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        905    
+Visitors.TotalTime                          2.0799     .35241     .00000     10.571        905    
+Equip.1.Queue.WaitingTime                   .61922     .12307     .00000     3.3710        457    
+Equip.5 Workout.Queue.WaitingTime           .58556     .14119     .00000     3.2515        446    
+Equip.4 Workout.Queue.WaitingTime           .54186     .14616     .00000     3.6211        443    
+Equip.3 Workout.Queue.WaitingTime           .58540     .15348     .00000     2.8628        459    
+Equip.2 Workout.Queue.WaitingTime           .59482     .14568     .00000     2.7920        470    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .16406     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .11217     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .08131     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .07654     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .03376     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                2.6238     .57127     .00000     12.000     4.0000    
+Resource 1.NumberBusy                       .76824     .05323     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .76824     .05323     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .39634     .10407     .00000     4.0000     2.0000    
+Equip.5 Workout.Queue.NumberInQueue         .36440     .10054     .00000     5.0000     1.0000    
+Equip.4 Workout.Queue.NumberInQueue         .33340     .09994     .00000     4.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .37319     .12336     .00000     4.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .38829     .12616     .00000     4.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                         9  Infinite
+Counter 2                                       579  Infinite
+Counter 1                                       321  Infinite
+Counter 5                                       861  Infinite
+Counter 4                                        44  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           909.00    
+Visitors.NumberOut                          905.00    
+Resource 1.NumberSeized                     2275.0    
+Resource 1.ScheduledUtilization             .76824    
+System.NumberOut                            1060.0    
+
+Beginning replication 24 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 24 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .57530     .03057     .00000     3.0004        952    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        952    
+Visitors.WaitTime                           1.7418     (Corr)     .00000     19.010        952    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        952    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        952    
+Visitors.TotalTime                          2.3171     (Corr)     .00000     19.777        952    
+Equip.1.Queue.WaitingTime                   .66789     (Corr)     .00000     4.7575        469    
+Equip.5 Workout.Queue.WaitingTime           .68492     (Corr)     .00000     4.7135        478    
+Equip.4 Workout.Queue.WaitingTime           .73209     (Corr)     .00000     4.8333        489    
+Equip.3 Workout.Queue.WaitingTime           .70585     (Corr)     .00000     4.8309        463    
+Equip.2 Workout.Queue.WaitingTime           .70815     (Corr)     .00000     4.3433        471    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .29401     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .27848     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .20180     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .25008     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .17367     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                3.0676     1.2787     .00000     18.000     4.0000    
+Resource 1.NumberBusy                       .76196     .07112     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .76196     .07112     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .43505     .19988     .00000     4.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .45471     .25348     .00000     6.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .49813     .26978     .00000     7.0000     1.0000    
+Equip.3 Workout.Queue.NumberInQueue         .45453     .23778     .00000     5.0000     2.0000    
+Equip.2 Workout.Queue.NumberInQueue         .46325     .28000     .00000     7.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        14  Infinite
+Counter 2                                       579  Infinite
+Counter 1                                       363  Infinite
+Counter 5                                       854  Infinite
+Counter 4                                        98  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           956.00    
+Visitors.NumberOut                          952.00    
+Resource 1.NumberSeized                     2370.0    
+Resource 1.ScheduledUtilization             .76196    
+System.NumberOut                            1107.0    
+
+Beginning replication 25 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 25 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .57644     .02445     .00000     3.5558        972    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        972    
+Visitors.WaitTime                           1.3805     .30565     .00000     8.6779        972    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        972    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        972    
+Visitors.TotalTime                          1.9570     .31199     .00000     9.7209        972    
+Equip.1.Queue.WaitingTime                   .55319     .11654     .00000     3.6345        500    
+Equip.5 Workout.Queue.WaitingTime           .53399     .13564     .00000     3.4215        508    
+Equip.4 Workout.Queue.WaitingTime           .56708     .11206     .00000     2.8004        481    
+Equip.3 Workout.Queue.WaitingTime           .50411     .11398     .00000     2.9121        505    
+Equip.2 Workout.Queue.WaitingTime           .54604     .09904     .00000     3.4452        505    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .25830     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .18862     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .13753     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .14344     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .12151     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                2.6608     .53422     .00000     14.000     7.0000    
+Resource 1.NumberBusy                       .77996     .04349     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .77996     .04349     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .38424     .12722     .00000     5.0000     1.0000    
+Equip.5 Workout.Queue.NumberInQueue         .37799     .11413     .00000     5.0000     1.0000    
+Equip.4 Workout.Queue.NumberInQueue         .37919     .09780     .00000     5.0000     1.0000    
+Equip.3 Workout.Queue.NumberInQueue         .35546     .10096     .00000     4.0000     1.0000    
+Equip.2 Workout.Queue.NumberInQueue         .38398     .10258     .00000     4.0000     2.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                         8  Infinite
+Counter 2                                       584  Infinite
+Counter 1                                       387  Infinite
+Counter 5                                       883  Infinite
+Counter 4                                        89  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           979.00    
+Visitors.NumberOut                          972.00    
+Resource 1.NumberSeized                     2499.0    
+Resource 1.ScheduledUtilization             .77996    
+System.NumberOut                            1127.0    
+
+Beginning replication 26 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 26 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .58634     .03547     .00000     2.9863        973    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        973    
+Visitors.WaitTime                           1.8913     .60633     .00000     15.293        973    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        973    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        973    
+Visitors.TotalTime                          2.4777     .61634     .00000     16.540        973    
+Equip.1.Queue.WaitingTime                   .80249     .25798     .00000     4.5197        464    
+Equip.5 Workout.Queue.WaitingTime           .75531     .24073     .00000     3.9592        486    
+Equip.4 Workout.Queue.WaitingTime           .77518     (Corr)     .00000     4.4577        474    
+Equip.3 Workout.Queue.WaitingTime           .79514     .23693     .00000     3.9507        475    
+Equip.2 Workout.Queue.WaitingTime           .74583     .25303     .00000     4.9037        477    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .19164     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .17964     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .20233     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .11839     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .07759     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                3.3487     1.0605     .00000     20.000     1.0000    
+Resource 1.NumberBusy                       .79272     .04470     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .79272     .04470     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .51716     .22216     .00000     5.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .50984     .20772     .00000     6.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .51033     .21222     .00000     7.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .52457     .21096     .00000     5.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .49411     .19990     .00000     7.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        13  Infinite
+Counter 2                                       558  Infinite
+Counter 1                                       403  Infinite
+Counter 5                                       887  Infinite
+Counter 4                                        86  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           974.00    
+Visitors.NumberOut                          973.00    
+Resource 1.NumberSeized                     2376.0    
+Resource 1.ScheduledUtilization             .79272    
+System.NumberOut                            1128.0    
+
+Beginning replication 27 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 27 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .58810     .02837     .00000     2.9790       1037    
+Visitors.NVATime                            .00000     .00000     .00000     .00000       1037    
+Visitors.WaitTime                           4.5109     (Corr)     .00000     31.673       1037    
+Visitors.TranTime                           .00000     .00000     .00000     .00000       1037    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000       1037    
+Visitors.TotalTime                          5.0990     (Corr)     .00000     32.580       1037    
+Equip.1.Queue.WaitingTime                   1.8383     (Corr)     .00000     8.1691        520    
+Equip.5 Workout.Queue.WaitingTime           1.8418     (Corr)     .00000     8.0086        491    
+Equip.4 Workout.Queue.WaitingTime           1.8147     (Corr)     .00000     8.1904        512    
+Equip.3 Workout.Queue.WaitingTime           1.8196     (Corr)     .00000     8.2673        545    
+Equip.2 Workout.Queue.WaitingTime           1.8279     (Corr)     .00000     8.7250        493    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .33173     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .21658     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .20393     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .15568     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .09285     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                7.3554     (Corr)     .00000     33.000     6.0000    
+Resource 1.NumberBusy                       .84891     (Insuf)    .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .84891     (Insuf)    .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 1.3283     (Corr)     .00000     10.000     1.0000    
+Equip.5 Workout.Queue.NumberInQueue         1.2560     (Corr)     .00000     11.000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         1.2916     (Corr)     .00000     10.000     1.0000    
+Equip.3 Workout.Queue.NumberInQueue         1.3787     (Corr)     .00000     9.0000     2.0000    
+Equip.2 Workout.Queue.NumberInQueue         1.2516     (Corr)     .00000     9.0000     1.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        17  Infinite
+Counter 2                                       623  Infinite
+Counter 1                                       403  Infinite
+Counter 5                                       920  Infinite
+Counter 4                                       117  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           1043.0    
+Visitors.NumberOut                          1037.0    
+Resource 1.NumberSeized                     2561.0    
+Resource 1.ScheduledUtilization             .84891    
+System.NumberOut                            1192.0    
+
+Beginning replication 28 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 28 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .57608     .03434     .00000     3.8944        944    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        944    
+Visitors.WaitTime                           1.7109     .56194     .00000     12.679        944    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        944    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        944    
+Visitors.TotalTime                          2.2869     .58048     .00000     13.877        944    
+Equip.1.Queue.WaitingTime                   .68515     .25735     .00000     4.7441        461    
+Equip.5 Workout.Queue.WaitingTime           .72037     .23339     .00000     4.3606        468    
+Equip.4 Workout.Queue.WaitingTime           .76710     .22186     .00000     4.1215        463    
+Equip.3 Workout.Queue.WaitingTime           .69721     .22370     .00000     4.1389        423    
+Equip.2 Workout.Queue.WaitingTime           .67100     .21268     .00000     3.6040        465    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .22141     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .18064     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .18514     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .12859     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .15890     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                2.9984     .92411     .00000     15.000     .00000    
+Resource 1.NumberBusy                       .75530     .06540     .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .75530     .06540     .00000     1.0000     .00000    
+Equip.1.Queue.NumberInQueue                 .43869     .17581     .00000     7.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .46824     .19680     .00000     5.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .49329     .18115     .00000     5.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .40961     .16979     .00000     6.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .43335     .17567     .00000     6.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        12  Infinite
+Counter 2                                       589  Infinite
+Counter 1                                       343  Infinite
+Counter 5                                       863  Infinite
+Counter 4                                        81  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           944.00    
+Visitors.NumberOut                          944.00    
+Resource 1.NumberSeized                     2280.0    
+Resource 1.ScheduledUtilization             .75530    
+System.NumberOut                            1099.0    
+
+Beginning replication 29 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 29 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .56017     .03368     .00000     2.3837        990    
+Visitors.NVATime                            .00000     .00000     .00000     .00000        990    
+Visitors.WaitTime                           1.4863     .43337     .00000     9.6555        990    
+Visitors.TranTime                           .00000     .00000     .00000     .00000        990    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000        990    
+Visitors.TotalTime                          2.0465     .45663     .00000     11.110        990    
+Equip.1.Queue.WaitingTime                   .64849     .15400     .00000     4.2555        499    
+Equip.5 Workout.Queue.WaitingTime           .60565     .16087     .00000     3.7448        474    
+Equip.4 Workout.Queue.WaitingTime           .57552     .15589     .00000     4.3037        485    
+Equip.3 Workout.Queue.WaitingTime           .56309     (Corr)     .00000     3.9022        507    
+Equip.2 Workout.Queue.WaitingTime           .62107     (Corr)     .00000     3.8439        477    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .23690     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .20265     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .18852     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .14739     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .11794     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                2.8147     .68045     .00000     13.000     2.0000    
+Resource 1.NumberBusy                       .77069     .04710     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .77069     .04710     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .44944     .14298     .00000     6.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .39872     .12787     .00000     5.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .38767     .11974     .00000     4.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .39676     .14637     .00000     5.0000     1.0000    
+Equip.2 Workout.Queue.NumberInQueue         .41146     .13954     .00000     5.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        17  Infinite
+Counter 2                                       597  Infinite
+Counter 1                                       378  Infinite
+Counter 5                                       905  Infinite
+Counter 4                                        85  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           992.00    
+Visitors.NumberOut                          990.00    
+Resource 1.NumberSeized                     2442.0    
+Resource 1.ScheduledUtilization             .77069    
+System.NumberOut                            1145.0    
+
+Beginning replication 30 of 30
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                  Summary for Replication 30 of 30
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Fitness Center.VATime                       .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.NVATime                      .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.WaitTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TranTime                     .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.OtherTime                    .00000     (Insuf)    .00000     .00000        155    
+Fitness Center.TotalTime                    .00000     (Insuf)    .00000     .00000        155    
+Visitors.VATime                             .57077     .02443     .00000     2.9037       1007    
+Visitors.NVATime                            .00000     .00000     .00000     .00000       1007    
+Visitors.WaitTime                           1.6683     (Corr)     .00000     12.057       1007    
+Visitors.TranTime                           .00000     .00000     .00000     .00000       1007    
+Visitors.OtherTime                          .00000     .00000     .00000     .00000       1007    
+Visitors.TotalTime                          2.2391     (Corr)     .00000     12.588       1007    
+Equip.1.Queue.WaitingTime                   .69198     .21169     .00000     3.3031        477    
+Equip.5 Workout.Queue.WaitingTime           .66983     .16655     .00000     3.3840        509    
+Equip.4 Workout.Queue.WaitingTime           .67574     (Corr)     .00000     3.1734        495    
+Equip.3 Workout.Queue.WaitingTime           .69578     (Corr)     .00000     3.2718        485    
+Equip.2 Workout.Queue.WaitingTime           .68517     (Corr)     .00000     3.5344        492    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Equip.5 Status Value                        .26122     (Insuf)    .00000     1.0000     .00000    
+Equip.4 Status Value                        .21376     (Insuf)    .00000     1.0000     .00000    
+Equip.3 Status Value                        .15063     (Insuf)    .00000     1.0000     .00000    
+Equip.2 Status Value                        .12524     (Insuf)    .00000     1.0000     .00000    
+Equip.1 Status Value                        .10118     (Insuf)    .00000     1.0000     .00000    
+Fitness Center.WIP                          .00000     (Insuf)    .00000     1.0000     .00000    
+Visitors.WIP                                3.1320     .76730     .00000     16.000     1.0000    
+Resource 1.NumberBusy                       .79863     .04600     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .79863     .04600     .00000     1.0000     1.0000    
+Equip.1.Queue.NumberInQueue                 .45844     .16677     .00000     5.0000     .00000    
+Equip.5 Workout.Queue.NumberInQueue         .47353     .14210     .00000     5.0000     .00000    
+Equip.4 Workout.Queue.NumberInQueue         .46457     .14170     .00000     5.0000     .00000    
+Equip.3 Workout.Queue.NumberInQueue         .46868     .15482     .00000     5.0000     .00000    
+Equip.2 Workout.Queue.NumberInQueue         .46820     .16367     .00000     5.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Healthy_final                                     0  Infinite
+Infected_final                                    0  Infinite
+Healthy_user                                      0  Infinite
+Counter 3                                        16  Infinite
+Counter 2                                       617  Infinite
+Counter 1                                       375  Infinite
+Counter 5                                       922  Infinite
+Counter 4                                        85  Infinite
+Infected_user                                     0  Infinite
+Vax_user                                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Fitness Center.NumberIn                     155.00    
+Fitness Center.NumberOut                    155.00    
+Visitors.NumberIn                           1008.0    
+Visitors.NumberOut                          1007.0    
+Resource 1.NumberSeized                     2458.0    
+Resource 1.ScheduledUtilization             .79863    
+System.NumberOut                            1162.0    
+
+
+                                      ARENA Simulation Results
+                                                Paul
+
+                                 Output Summary for 30 Replications
+
+Project: Unnamed Project                                             Run execution date :12/ 7/2021
+Analyst: Paul                                                        Model revision date:12/ 7/2021
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+Fitness Center.NumberIn                     155.00     .00000     155.00     155.00     30
+Fitness Center.NumberOut                    155.00     .00000     155.00     155.00     30
+Visitors.NumberIn                           968.36     12.260     909.00     1043.0     30
+Visitors.NumberOut                          965.23     12.182     905.00     1037.0     30
+Resource 1.NumberSeized                     2404.3     33.614     2255.0     2561.0     30
+Resource 1.ScheduledUtilization             .78171     .01108     .71739     .84891     30
+System.NumberOut                            1120.2     12.182     1060.0     1192.0     30
+
+Simulation run time: 0.85 minutes.
+Simulation run complete.
